@@ -1,0 +1,13 @@
+10th April'26
+
+2:20-2:45(session)
+2:45-4:10(genesis meeting)
+4:10-5:45(usecases)
+5:45-6:45(Revision and basic programming practices)
+
+
+#usecases
+1. inventory management system 
+2. employee information management system 
+3. contact management system 
+4. password validation 
