@@ -1,0 +1,5 @@
+CREATE_TASK = '1'
+VIEW_TASK = '2'
+UPDATE_TASK = '3'
+DELETE_TASK = '4'
+EXIT = '5'

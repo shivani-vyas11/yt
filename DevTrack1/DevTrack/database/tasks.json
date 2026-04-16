@@ -1,0 +1,18 @@
+[
+    {
+        "task_id": 1,
+        "task": "task1",
+        "priority": "high",
+        "deadline": "2222-01-23",
+        "status": "Pending",
+        "date_created": "14-04-2026 12:15:43"
+    },
+    {
+        "task_id": 2,
+        "task": "ftrse",
+        "priority": "low",
+        "deadline": "2023-09-09",
+        "status": "Pending",
+        "date_created": "16-04-2026 15:52:10"
+    }
+]
